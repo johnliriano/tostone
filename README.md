@@ -1,2 +1,2 @@
 # tostone
-Repo para practicar
+Repositorio para practicar.
